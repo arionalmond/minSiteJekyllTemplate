@@ -9,6 +9,9 @@ Below is me testing similar site content but with
 ## H2
 ### H3
 
+[page 2 html](./page2.html).  
+[page 2 html](./pg2.md).  
+
 **bold text**  
 *italicized text*  
 
