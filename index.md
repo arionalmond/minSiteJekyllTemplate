@@ -1,3 +1,6 @@
+lorem lorem lorem
+[page2](./page2.md).  
+
 ## about
 
 ## info
